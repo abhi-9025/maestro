@@ -20,7 +20,7 @@ const Sidebar = () => {
     {
         label: "Conversation",
         icon: MessageSquare,
-        href: "/conversion",
+        href: "/conversation",
         color: "text-violet-600",
       },
       {
