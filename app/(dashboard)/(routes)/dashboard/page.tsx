@@ -57,7 +57,7 @@ export default function Dashboard() {
     <div>
       <div className="mb-8 space-y-4">
         <h2 className="text-2xl md:text-4xl font-bold text-center">
-          Delve into the Potential of AI"
+          Delve into the Potential of AI
         </h2>
         <p className="text-muted-foreground font-light text-sm md:text-lg text-center">
           Chat with the AI Experience the power of AI
@@ -79,7 +79,7 @@ export default function Dashboard() {
               </div>
               <ArrowRight className=" w-5 h-8" />
             </Card>
-          );
+          )
         })}
       </div>
     </div>
