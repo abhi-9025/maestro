@@ -12,7 +12,7 @@ import Image from "next/image";
             <Image
              alt="Empty"
              fill
-             src="/empty.png"
+             src="/logo.png"
             />
         </div>
         <p className="text-muted-foreground text-sm text-center">
